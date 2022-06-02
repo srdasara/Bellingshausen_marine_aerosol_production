@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dasarathy"
+  given-names: "Srishti"
+  orcid: "https://orcid.org/0000-0001-8149-3801"
+title: "Wind-driven and Seasonal Effects on marine aerosol production in the Bellingshausen Sea, Antarctica"
+version: 0.1.0
+doi: 10.5281/zenodo.6608952
+date-released: 2022-06-02
+url: "https://github.com/srdasara/Bellingshausen_marine_aerosol_production"
